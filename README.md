@@ -1,1 +1,1 @@
-# research-projects
+# List of research projects
